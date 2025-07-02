@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <title>Meu Site</title>
+    <link rel="icon" href="public/Img.png" type="image/png">
+    <link rel="stylesheet" href="css/estilo.css">
+  </head>
+  <body>
+    <div class="conteudo">
+      <h1>Quem Somos?</h1>
+      <p>Uma empresa focada em oferecer as melhores motos, com os melhores serviços e atendimentos voltado para o cliente.</p>
+      <p>Sempre oferecendo o melhor para nossos clientes.</p>
+    </div>
+  </body>
+</html>
+
